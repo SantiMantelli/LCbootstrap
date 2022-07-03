@@ -143,3 +143,7 @@ body {
 .no-decoration a{
   text-decoration: none !important; 
 }
+
+.card-text li:hover{
+  color: rgb(245, 120, 3);
+}
