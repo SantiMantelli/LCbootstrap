@@ -113,7 +113,14 @@ body {
   }
 }
 
+@media (max-width: 40em){
 
+  #myCarousel{
+    display: none;
+  }
+
+
+}
 
 /* ====================================== */
 
