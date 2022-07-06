@@ -1,5 +1,10 @@
-*{
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+* {
   list-style: none;
+}
+
+h1 {
+  font-family: "Bebas Neue", cursive;
 }
 
 .bd-placeholder-img {
@@ -15,21 +20,18 @@
     font-size: 3.5rem;
   }
 }
-
-.lead li:hover{
+lead li:hover {
   background-color: black;
   transition: 300ms;
   color: whitesmoke;
   border-radius: 5px;
 }
 
-.novingr-index{
-  font-family: 'Times New Roman', Times, serif;
-  background-color: #0a0909d2;
-  color: whitesmoke
-  
+.novingr-index {
+  font-family: "Times New Roman", Times, serif;
+  background-color: rgba(10, 9, 9, 0.8235294118);
+  color: whitesmoke;
 }
-
 
 body {
   padding-top: 3rem;
@@ -37,10 +39,7 @@ body {
   color: #5a5a5a;
 }
 
-
 /* CAROUSEL */
-
-
 .carousel {
   margin-bottom: 4rem;
 }
@@ -53,6 +52,7 @@ body {
 .carousel-item {
   height: 32rem;
 }
+
 .carousel-item > img {
   position: absolute;
   top: 0;
@@ -61,89 +61,73 @@ body {
   height: 32rem;
 }
 
-
-
 .general .col-lg-4 {
   margin-bottom: 1.5rem;
   text-align: center;
 }
+
 .general h2 {
   font-weight: 400;
 }
 
 .general .col-lg-4 p {
-  margin-right: .75rem;
-  margin-left: .75rem;
+  margin-right: 0.75rem;
+  margin-left: 0.75rem;
 }
-
-
 
 .featurette-divider {
-  margin: 5rem 0; 
+  margin: 5rem 0;
 }
-
 
 .featurette-heading {
   font-weight: 300;
   line-height: 1;
-  letter-spacing: -.05rem;
+  letter-spacing: -0.05rem;
 }
 
-
 /* RESPONSIVE CSS
--------------------------------------------------- */
-
+  -------------------------------------------------- */
 @media (min-width: 40em) {
   .carousel-caption p {
     margin-bottom: 1.25rem;
     font-size: 1.25rem;
     line-height: 1.4;
   }
-
   .featurette-heading {
     font-size: 50px;
   }
-
-  }
-
-
+}
 @media (min-width: 62em) {
   .featurette-heading {
     margin-top: 7rem;
   }
 }
-
-@media (max-width: 40em){
-
-  #myCarousel{
+@media (max-width: 40em) {
+  #myCarousel {
     display: none;
   }
-
-
 }
-
 /* ====================================== */
-
 .btn-wsp {
   width: 50px;
   height: 50px;
   position: fixed;
-  bottom:20px ;
-  right:20px ;
-  
+  bottom: 20px;
+  right: 20px;
 }
 
-.btn-wsp:hover{
+.btn-wsp:hover {
   width: 75px;
   height: 75px;
   transition: 500ms;
 }
 
-
-.no-decoration a{
-  text-decoration: none !important; 
+.no-decoration a {
+  text-decoration: none !important;
 }
 
-.card-text li:hover{
+.card-text li:hover {
   color: rgb(245, 120, 3);
 }
+
+/*# sourceMappingURL=style.css.map */
