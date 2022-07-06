@@ -3,88 +3,6 @@
   list-style: none;
 }
 
-h1 {
-  font-family: "Bebas Neue", cursive;
-}
-
-.bd-placeholder-img {
-  font-size: 1.125rem;
-  text-anchor: middle;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  user-select: none;
-}
-
-@media (min-width: 768px) {
-  .bd-placeholder-img-lg {
-    font-size: 3.5rem;
-  }
-}
-lead li:hover {
-  background-color: black;
-  transition: 300ms;
-  color: whitesmoke;
-  border-radius: 5px;
-}
-
-.novingr-index {
-  font-family: "Times New Roman", Times, serif;
-  background-color: rgba(10, 9, 9, 0.8235294118);
-  color: whitesmoke;
-}
-
-body {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  color: #5a5a5a;
-}
-
-/* CAROUSEL */
-.carousel {
-  margin-bottom: 4rem;
-}
-
-.carousel-caption {
-  bottom: 3rem;
-  z-index: 10;
-}
-
-.carousel-item {
-  height: 32rem;
-}
-
-.carousel-item > img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
-  height: 32rem;
-}
-
-.general .col-lg-4 {
-  margin-bottom: 1.5rem;
-  text-align: center;
-}
-
-.general h2 {
-  font-weight: 400;
-}
-
-.general .col-lg-4 p {
-  margin-right: 0.75rem;
-  margin-left: 0.75rem;
-}
-
-.featurette-divider {
-  margin: 5rem 0;
-}
-
-.featurette-heading {
-  font-weight: 300;
-  line-height: 1;
-  letter-spacing: -0.05rem;
-}
-
 /* RESPONSIVE CSS
   -------------------------------------------------- */
 @media (min-width: 40em) {
@@ -107,7 +25,72 @@ body {
     display: none;
   }
 }
-/* ====================================== */
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+/* CAROUSEL */
+.carousel {
+  margin-bottom: 4rem;
+}
+
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+/* ANIDAMIENTO CAROUSEL */
+.carousel-item {
+  height: 32rem;
+}
+.carousel-item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 32rem;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.novedades-index {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.novedades-index h1 {
+  font-family: "Bebas Neue", cursive;
+}
+.novedades-index h2 {
+  font-weight: 400;
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -0.05rem;
+}
+.novedades-index ul li:hover {
+  background-color: black;
+  transition: 300ms;
+  color: whitesmoke;
+  border-radius: 5px;
+}
+
+.featurette-divider {
+  margin: 5rem 0;
+}
+
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+/* ===BTN WSP=== */
 .btn-wsp {
   width: 50px;
   height: 50px;
@@ -115,17 +98,18 @@ body {
   bottom: 20px;
   right: 20px;
 }
-
 .btn-wsp:hover {
   width: 75px;
   height: 75px;
   transition: 500ms;
 }
 
+/* FOOTER */
 .no-decoration a {
   text-decoration: none !important;
 }
 
+/* CARDS PAG STOCK */
 .card-text li:hover {
   color: rgb(245, 120, 3);
 }
