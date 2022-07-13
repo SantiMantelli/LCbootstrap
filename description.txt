@@ -1,0 +1,54 @@
+SEO
+
+Index
+
+Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo: "Ésta es la página de La Curtiembre Automotores, la mejor agencia de autos nuevos y usados en San Nicolás"
+
+Palabras clave: mediante la etiqueta meta name keywords, agregué las siguientes palabras en ésta página: "autos usados, vehiculos en venta,venta de vehiculos multimarca, venta de vehiculos cero kilometros"
+
+Encabezado:Somos La Curtiembre Autos(h1)
+
+
+
+Stock
+
+Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo: "Stock disponible para la venta de La Curtiembre Automotores"
+
+Palabras clave: mediante la etiqueta meta name keywords, agregué las siguientes palabras en ésta página: "autos usados San Nicolás, vehiculos en venta,venta de vehiculos multimarca, ford, chevrolet, renault, peugeot, volkswagen, financiación autos nuevos y usados"
+
+Encabezado:Conocé nuestro stock(h1)
+
+
+Quienes Somos
+
+Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo: "Acá vas a encontrar toda la información sobre la agencia de autos de San Nicolás La Curtiembre Automotores"
+
+Palabras clave: mediante la etiqueta meta name keywords, agregué las siguientes palabras en ésta página: "conocenos, quienes somos, la curtiembre automotores"
+
+Encabezado:Somos La Curtiembre Autos(h1)
+
+
+Contacto
+
+Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo: "En ésta pagina se encuentran todas las vias de contacto"
+
+Palabras clave: mediante la etiqueta meta name keywords, agregué las siguientes palabras en ésta página: "contacto, contactanos, whatsapp, la curtiembre, la curtiembre autos, dirección"
+
+Encabezado:Llena el formulario(h1)
+
+
+
+Cotizá tu auto
+
+Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo: "Formulario para cotizar tu vehiculo por La Curtiembre Automotores"
+
+Palabras clave: mediante la etiqueta meta name keywords, agregué las siguientes palabras en ésta página: "cotizar mi auto, permutas, cotización, vender mi auto, cotización online vehiculos"
+
+Encabezado:Completá el formulario (h1)
+
+
+
+
+En todas las páginas dejé los encabezados que ya tenían cada una (h1).
+
+No utilicé meta open graph de image ya que no tengo subida la página.

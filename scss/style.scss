@@ -3,10 +3,14 @@
 }
 @import './base/variables';
 @import './base/listas';
+@import './base/mapas';
+@import './component/_buttons';
+@import './base/extends';
 @import './component/_medias.scss';
 @import './fonts';
 @import './component/carousel';
 @import './component/novedades-index';
+@import './component/titles';
 
 
 
@@ -39,6 +43,8 @@ body {
 }
 /* CARDS PAG STOCK */
 .card-text li:hover{
-    color: nth($colores-principales, 2) ;
+    color: nth($colores-principales, 2);
 }
+
+
 
