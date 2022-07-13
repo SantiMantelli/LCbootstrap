@@ -1,0 +1,11 @@
+@mixin wsp ($width, $height, $position, $bottom, $right) {
+    width: $width;
+    height: $height;
+    position: $position;
+    bottom: $bottom;
+    right: $right;
+}
+
+
+
+
