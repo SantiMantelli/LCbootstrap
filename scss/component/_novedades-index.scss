@@ -1,0 +1,26 @@
+.novedades-index{
+    margin-bottom: 1.5rem;
+    text-align: center;
+
+    h1{
+        font-family: $font-hx-index;
+    }
+    h2{
+        font-weight: 400;
+        font-weight: 300;
+        line-height: 1;
+        letter-spacing: -.05rem;
+    }
+    ul{
+        li:hover{
+            background-color: black;
+            transition: 300ms;
+            color: whitesmoke;
+            border-radius: 5px;
+        }
+    }
+}
+
+.featurette-divider {
+    margin: 5rem 0; 
+}

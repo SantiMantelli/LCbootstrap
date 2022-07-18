@@ -1,0 +1,26 @@
+.btnStandard{
+    @extend %botones;
+    margin-top: 20px;
+    border-radius: 10%;
+}
+
+.btnStock{
+    @extend %botones;
+
+    &:hover{
+        background-color: #ee0606dc;
+        color: black;
+        font-size: large;
+        font-weight: bold;
+    }
+}
+
+.btn-wsp{
+    @include wsp(50px, 50px, fixed ,20px , 20px );
+    &:hover {
+        width: 75px;
+        height: 75px;
+        transition: 500ms;
+}
+}
+

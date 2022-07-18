@@ -1,0 +1,34 @@
+  /* CAROUSEL */
+
+
+.carousel {
+    margin-bottom: 4rem;
+}
+
+.carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+}
+
+
+/* ANIDAMIENTO CAROUSEL */
+
+.carousel-item {
+    height: 32rem;
+
+    & img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        min-width: 100%;
+        height: 32rem;
+    }
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}

@@ -1,0 +1,6 @@
+.txt-stock{
+    color: map-get($txtimportant , color-standard);
+    font-size: map-get($txtimportant , font );
+    text-decoration: map-get($txtimportant , txt-decoration);
+    text-align: center;
+}
