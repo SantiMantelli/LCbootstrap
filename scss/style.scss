@@ -45,6 +45,8 @@ body {
 /* CARDS PAG STOCK */
 .card-text li:hover{
     color: nth($colores-principales, 2);
+    font-size: large;
+    font-weight: bold;
 }
 
 

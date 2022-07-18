@@ -8,9 +8,10 @@
     @extend %botones;
 
     &:hover{
-        background-color: #fd7e14;
+        background-color: #ee0606dc;
         color: black;
         font-size: large;
+        font-weight: bold;
     }
 }
 

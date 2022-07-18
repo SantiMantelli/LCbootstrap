@@ -15,9 +15,10 @@
 }
 
 .btnStock:hover {
-  background-color: #fd7e14;
+  background-color: rgba(238, 6, 6, 0.862745098);
   color: black;
   font-size: large;
+  font-weight: bold;
 }
 
 .btn-wsp {
@@ -148,7 +149,9 @@ body {
 
 /* CARDS PAG STOCK */
 .card-text li:hover {
-  color: rgb(245, 120, 3);
+  color: rgba(238, 6, 6, 0.862745098);
+  font-size: large;
+  font-weight: bold;
 }
 
 /*# sourceMappingURL=style.css.map */
